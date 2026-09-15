@@ -472,3 +472,8 @@ The PPT generation prompt further demonstrates how the refined technical content
 # RESULT
 
 The experiment was successfully performed by applying multiple prompt patterns to two engineering scenarios—Drone Mission Planner/Coastal Surveillance and Smart Agriculture Advisor—and by using iterative prompting to generate refined technical content and a structured engineering presentation.
+
+
+# OUTPUT 
+PPT
+[Smart_Agriculture_Advisor.pptx](https://github.com/user-attachments/files/32259106/Smart_Agriculture_Advisor.pptx)
